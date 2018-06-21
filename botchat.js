@@ -22464,7 +22464,7 @@ var localizedStrings = {
         speak: "Speak"
     },
     'ja-jp': {
-        title: "タイトルを変えてみました",
+        title: "タイトルを変えてみましたよ",
         send: "送信",
         unknownFile: "[ファイルタイプ '%1']",
         unknownCard: "[不明なカード '%1']",
