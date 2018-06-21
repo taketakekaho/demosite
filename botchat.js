@@ -22475,7 +22475,7 @@ var localizedStrings = {
         messageFailed: "送信できませんでした。",
         messageSending: "送信中",
         timeSent: " %1",
-        consolePlaceholder: "メッセージを入力してください...",
+        consolePlaceholder: "ここにメッセージ入れてちょ",
         listeningIndicator: "聴いてます...",
         uploadFile: "",
         speak: ""
